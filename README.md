@@ -6,6 +6,7 @@
 - I'd like to learn math and algorithm
 - dealing with some trouble
 - confident
+- `Materialistic monsters who exploit "kind" folks will not have good outcomes, no matter how much comforts were ill-gained`
 <!---
 Yakai4/Yakai4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
